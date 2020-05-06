@@ -1,0 +1,35 @@
+{
+  "name": "chat-app",
+  "version": "0.0.1",
+  "description": "a chat app similar to picto-chat",
+  "main": "build/index.js",
+  "engines": {
+    "node": ">=6.11.5"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "start": "node build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HezTec/chat-app.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Montao Coleman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HezTec/chat-app/issues"
+  },
+  "homepage": "https://github.com/HezTec/chat-app#readme",
+  "dependencies": {
+    "@types/express": "^4.17.6",
+    "@types/socket.io": "^2.1.4",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "tslint": "^6.1.1"
+  }
+}

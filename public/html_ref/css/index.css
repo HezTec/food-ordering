@@ -1,0 +1,18 @@
+img{
+  height: 120px;
+  width: 150px;
+}
+
+#sandwhich_box{
+  float:left;
+  width: 305px;
+  height: 245px;
+  border: 2px solid black;
+}
+
+#cart{
+  float:right;
+  width: 20%;
+  height: 250px;
+  border: 1px dotted black;
+}
