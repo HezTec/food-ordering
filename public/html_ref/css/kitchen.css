@@ -1,0 +1,16 @@
+body{
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+ul {
+  font-size: 20pt;
+  border: 2px solid black;
+}
+
+li{
+  font-size: 14pt;
+}
+
+#order_window {
+  width: 50%;
+}
