@@ -10,6 +10,10 @@ h1 {
   height: 60px;
 }
 
+food_box{
+  width: 75%;
+}
+
 #food_box img {
   height: 170px;
   width: 200px;
